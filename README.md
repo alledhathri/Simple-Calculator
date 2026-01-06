@@ -13,11 +13,11 @@ Simple, clean UI with interactive buttons
 
 # Technologies Used
 
-HTML5 → Structure of the calculator
+HTML5 - Structure of the calculator
 
-CSS3 → Styling and layout (responsive design, hover effects)
+CSS3 - Styling and layout (responsive design, hover effects)
 
-JavaScript (ES6) → Logic for calculations and event handling
+JavaScript (ES6) - Logic for calculations and event handling
 
 # How to Use
 
